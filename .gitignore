@@ -1,0 +1,9 @@
+# Visual Studio: Build-Ausgabe und Benutzereinstellungen / build output and user settings
+.vs/
+x64/
+Win32/
+Debug/
+Release/
+*.vcxproj.user
+# NuGet-Pakete / NuGet packages
+packages/
